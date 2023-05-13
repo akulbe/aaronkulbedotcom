@@ -1,0 +1,15 @@
+baseURL = "http://aaronkulbe.com/"
+languageCode = "en-us"
+title = "aaron kulbe"
+theme = 'Papermod'
+
+[author]
+    name = "aaron kulbe"
+    email = "aaron@kulbe.name"
+    github = "akulbe"
+    twitter = "akulbe"
+    devto = "akulbe"
+
+[module]
+  [[module.imports]]
+    path = "github.com/adityatelange/hugo-PaperMod"
