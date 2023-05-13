@@ -1,5 +1,5 @@
 module github.com/akulbe/aaronkulbedotcom
 
-go 1.20
+go 1.19
 
 require github.com/adityatelange/hugo-PaperMod v0.0.0-20230507121058-bacb763071d9 // indirect
