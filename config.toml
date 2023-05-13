@@ -1,7 +1,7 @@
 baseURL = "http://aaronkulbe.com/"
 languageCode = "en-us"
 title = "aaron kulbe"
-theme = 'Papermod'
+theme = 'hugo-Papermod'
 
 [author]
     name = "aaron kulbe"
