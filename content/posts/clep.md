@@ -1,7 +1,7 @@
 ---
 title: "CLEP"
 date: 2023-05-14T15:52:45-07:00
-draft: true
+draft: false
 ---
 ## Introduction
 
